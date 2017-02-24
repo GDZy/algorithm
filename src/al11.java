@@ -3,6 +3,6 @@
  */
 public class al11 {
     public static void main(String[] args) {
-        System.out.println("h m");
+        System.out.println("h me");
     }
 }
